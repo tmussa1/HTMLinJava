@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Java integrated with HTML </title>
+</head>
+<body>
+<h3> Item#:  Quantity:  Description:  Price:  Total: </h3>
+<p>J001        3        Java Book        45.0        135.0        </p>
+<p>C001        3        Cobol Book        50.0        150.0        </p>
+<br>
+<p>Taxable subtotal: 135.0</p>
+<p>Untaxable subtotal: 150.0</p>
+<p>Tax: 6.75</p>
+<p>Grandtotal: 291.75</p>
+</body>
+</html>
